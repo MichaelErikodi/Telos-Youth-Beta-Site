@@ -1,0 +1,109 @@
+body {
+    background-color: #2F3035;
+    background-image: url(images/Untitlesite2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+
+a {
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+nav a {
+    color: white;
+    font-size: 35px;
+    font-family: 'Fugaz One', cursive;
+    text-decoration: none;
+    padding-right: 55px;
+    padding-left: 55px;
+    text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'Fugaz One', cursive;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 175px;
+  padding-bottom: 175px;  
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.500);
+    margin-left: 45px;
+    margin-right: 45px;
+    padding-bottom: 20px;
+
+}
+
+h2 {
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h4 {
+    height: 200px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.branding-footer img{
+    margin-left: 1683px;
+    width: 200px;
+}
+
+.twitter-footer {
+    color: white;
+    margin-right: 1700px;
+    font-family: 'Fugaz One', cursive;
+    
+}
+
+.right-footer {
+    color: white;
+    margin-right: 1550px;
+    font-family: 'Fugaz One', cursive;
+}
+
+.contact-info-footer {
+    color: white;
+    margin-right: 1610px;
+    font-family: 'Fugaz One', cursive;
+}

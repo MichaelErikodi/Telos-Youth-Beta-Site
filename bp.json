@@ -1,0 +1,67 @@
+{
+	"producer_account_name": "telosdacnode",
+	"producer_public_key": "Key:EOS7umWfL6PF8tSMSj8qSCLjxEs9BAUvz4FrXRBpFL4kq6pW3vuN9",
+	"org": {
+		"candidate_name": "TelosDAC",
+		"website": "https://telosdac.io/",
+		"code_of_conduct": "",
+		"ownership_disclosure": "https://telosdac.io/ownership/",
+		"email": "telosdac.telosdac@gmail.com",
+		"phone": "TF Registry",
+		"branding": {
+			"logo_256": "https://telosdac.io/files/2018/12/logo_256.png",
+			"logo_1024": "https://telosdac.io/files/2018/12/logo_1024.png",
+			"logo_svg": "https://telosdac.io/files/2018/12/logo.svg"
+		},
+		"location": {
+			"name": "Hertfordshire",
+			"country": "GB",
+			"latitude": 51.9071566,
+			"longitude": -0.2107090
+		},
+		"social": {
+			"steemit": "",
+			"twitter": "@telosyouth",
+			"youtube": "",
+			"facebook": "",
+			"github": "",
+			"reddit": "",
+			"keybase": "",
+			"telegram": "",
+			"wechat": ""
+		}
+	},
+
+	"nodes": [{
+			"location": {
+				"name": "Amsterdam",
+				"country": "NL",
+				"latitude": 49.284735,
+				"longitude": 4.9166667
+			},
+			"node_type": "producer"
+		},
+		{
+			"location": {
+				"name": "Amsterdam",
+				"country": "NL",
+				"latitude": 49.284735,
+				"longitude": 4.9166667
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "p2p.telosdac.io:9876"
+		},
+		{
+			"location": {
+				"name": "Amsterdam",
+				"country": "NL",
+				"latitude": 49.284735,
+				"longitude": 4.9166667
+			},
+			"node_type": "full",
+			"api_endpoint": "https://api.telosdac.io/",
+			"ssl_endpoint": "https://api.telosdac.io/"
+		}
+	]
+
+}

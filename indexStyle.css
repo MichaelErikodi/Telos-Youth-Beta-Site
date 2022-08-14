@@ -1,0 +1,136 @@
+body {
+    background-color: #2F3035;
+    background-image: url(images/Untitlesite2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+main h1 img {
+    width: 800px;
+    height: 230px;
+    margin-top: 100px;
+}
+
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav { 
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+
+h2 {
+    font-family: 'Fugaz One', cursive;
+    font-size: 32px;
+    color: white;
+}
+
+a {
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+}
+
+nav a {
+    font-size: 35px;
+    font-family: 'Fugaz One', cursive;
+    text-decoration: none;
+    padding-right: 55px;
+    padding-left: 55px;
+    text-align: center;
+}
+
+.aboutus {
+    background-color: rgba(0, 0, 0, 0.500);
+    padding-bottom: 40px;
+    padding-top: 20px;
+    margin-top: 145px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.aboutus h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+
+}
+
+.aboutus b {
+    color: white;
+    text-align: center;
+    font-family: 'Fugaz One', cursive ;
+    font-size: 20px;
+
+}
+
+.aboutus p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    height: 200px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: black;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.branding-footer img{
+    margin-left: 1683px;
+    width: 200px;
+}
+
+.twitter-footer {
+    color: white;
+    margin-right: 1700px;
+    font-family: 'Fugaz One', cursive;
+    
+}
+
+.right-footer {
+    color: white;
+    margin-right: 1550px;
+    font-family: 'Fugaz One', cursive;
+}
+
+.contact-info-footer {
+    color: white;
+    margin-right: 1610px;
+    font-family: 'Fugaz One', cursive;
+}
+
+
+
+
+
+
